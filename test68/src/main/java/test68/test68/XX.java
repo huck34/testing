@@ -6,6 +6,6 @@ public class XX {
     	System.out.print("uuu");
 
     	int a=3;
-
+        int b=4;
     }
 }
